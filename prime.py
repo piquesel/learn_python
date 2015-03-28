@@ -1,3 +1,5 @@
+# Program to determine prime numbers.
+
 def prime(n):
     def z(x):
         if x:
